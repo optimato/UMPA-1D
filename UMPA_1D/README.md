@@ -1,4 +1,3 @@
-# Unified Modulated Pattern Analysis
-Original implementation of the method published in
-[M.-C. Zdora, et al., “X-ray Phase-Contrast Imaging and Metrology through Unified Modulated Pattern Analysis,” Phys. Rev. Lett., **118** 203903 (2017)](http://dx.doi.org/10.1103/PhysRevLett.118.203903).
+# Unified Modulated Pattern Analysis for 1D sensitive X-ray Phase Contrast (XPC) techniques
+Implementation of the method published in [V. Di Trapani et al., "Unified Modulation Pattern Analysis (UMPA) algorithm for 1D sensitive X-Ray Phase Contrast Imaging techniques", JISNT (accepted for publication)]. This is a modified version UMPA [M.-C. Zdora, et al., “X-ray Phase-Contrast Imaging and Metrology through Unified Modulated Pattern Analysis,” Phys. Rev. Lett., **118** 203903 (2017)](http://dx.doi.org/10.1103/PhysRevLett.118.203903), [F. De Marco et al., High-speed processing of X-ray wavefront marking data with the Unified Modulated Pattern Analysis (UMPA) model, Opt Express, https://doi.org/10.1364/OE.474794].
 
