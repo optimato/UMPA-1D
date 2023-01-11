@@ -11,7 +11,7 @@ VERSION = "0.1"
 DESCR = "Unified Modulated Pattern Analysis"
 REQUIRES = ['numpy', 'cython']
 
-AUTHOR = "Pierre Thibault"
+AUTHOR = "Pierre Thibault, Vittorio Di Trapani, Fabio De Marco"
 EMAIL = "pierre.thibault@soton.ac.uk"
 
 LICENSE = "Apache 2.0"
